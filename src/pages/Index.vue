@@ -21,7 +21,7 @@
         </div>
         <div class="as-mt-50 grid">
           <div class="g-col-12 g-col-lg-8">
-            <DomainOverview/>
+            <DomainOverviewOne/>
             <DomainOverviewTwo class="as-mt-72"/>
             <DomainOverviewThree class="as-mt-48"/>
           </div>
@@ -47,7 +47,7 @@
     AsLayout,
   } from '@niagahoster/components'
 
-  import DomainOverview from '@/components/DomainOverview.vue'
+  import DomainOverviewOne from '@/components/DomainOverviewOne.vue'
   import DomainOverviewTwo from '@/components/DomainOverviewTwo.vue'
   import DomainOverviewThree from '@/components/DomainOverviewThree.vue'
   import FeatureRequest from '@/components/FeatureRequest.vue'
